@@ -1,11 +1,11 @@
 ---
 layout: post
-title: About
+title: About me
 permalink: /about/
 content-type: eg
 ---
 
-As of now, I am a programmer with expertise in System Programming (especially C++), who is also interested in Computer Graphics, Compiler Design, and Some Embedded Systems. [[Here::https://github.com/raghuveerdotnet]] is my coding scratchpad if you are interested.
+This site is an attempt to build a private zettlekasten (yet some things are missing, such as making it private).  It's based of the fantastic work of raghuveerdotnet and his simply-jekyll template available here on github..
 
 Over the course of time, I have developed interest in many things including cognitive science, mathematics, and philosophy; and my personal penchant is to one day create a software system that I call the CogShell (Short for the  Cognitive Shell[[See my writeup on it: [here](/posts/cogshell)::rsn]]): A highly interconnnected software toolkit with all the essential tools to support thought continuity through tacit object permanance.
 
