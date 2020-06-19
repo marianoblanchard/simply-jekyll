@@ -15,4 +15,3 @@ collections:
     folder: '_notes/'
     fields:
       - { name: Title }
-
